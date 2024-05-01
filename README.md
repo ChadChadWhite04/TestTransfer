@@ -14,6 +14,13 @@
 
     <h3 align-¨left¨> Language and Tools: </h3>
     <p align- ¨Left¨>
-      <a href= ¨https://github.com/devicons/devicon/blub/master/icons/intellij/intellij-original-wordmark.svg¨ target=¨blank¨ rel =¨noreferrer¨><img
-            src=¨https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg¨ alt = ¨intellij¨width ¨40¨ height ¨40¨/></a>
-    </p>
+      <a href= ¨https://github.com/devicons/devicon/blub/master/icons/intellij/intellij-original-
+          wordmark.svg¨ target=¨blank¨ rel =¨noreferrer¨><img
+            src=¨https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg¨
+            alt = ¨intellij¨width =¨60¨ height =¨60¨/></a><a
+            href=¨wordmark.svg]https://github.com/devicons/devicon/blob/master/icons/java/java-original-
+            wordmark.svg¨targets=¨blank¨ rel=¨noreferrer¨><img
+        src=¨https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg¨alt
+  = ¨java¨width =¨60¨ height =¨60¨/></a>
+
+</p>
